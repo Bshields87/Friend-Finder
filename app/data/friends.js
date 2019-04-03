@@ -1,0 +1,59 @@
+// data format for surveys
+module.exports = [
+{
+  "name":"Willy",
+  "photo":"https://mediaslide-us.storage.googleapis.com/click/pictures/938/938/large-1528384310-3ec56ddabadd14ed63785bc10512ccab.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5
+    ]
+},
+{
+  "name":"Juan",
+  "photo":"https://qph.fs.quoracdn.net/main-qimg-03becf74d9923a4f09d9953fb5113ba7",
+  "scores":[
+      1,
+      2,
+      3,
+      5,
+      2
+    ]
+},
+{
+  "name":"Marlon",
+  "photo":"https://covermenmag.com/wp-content/uploads/marlon-teixeira-gq-australia-august-2018-001.jpg",
+  "scores":[
+      3,
+      4,
+      3,
+      1,
+      3
+    ]
+},
+{
+  "name":"Adwoah",
+  "photo":"http://showstudio.com/img/contributors/2801-3000/2802_480n.jpg?1520607916",
+  "scores":[
+      3,
+      1,
+      1,
+      1,
+      2
+    ]
+},
+{
+  "name":"Duckie",
+  "photo":"https://pixel.nymag.com/imgs/fashion/daily/2018/09/24/24-Duckie-Thot-lede.w1200.h630.jpg",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      1
+    ]
+}
+
+]
